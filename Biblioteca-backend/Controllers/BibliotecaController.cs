@@ -28,7 +28,7 @@ namespace Biblioteca_backend.Controllers
         }
 
         [HttpGet("obra/{id}")]
-        public async Task<ObraResult> GetObrasById(int id)
+        public async Task<ObraResult> GetObraById(int id)
         {
             var response = await iBibliotecaService.GetObraById(id);
 

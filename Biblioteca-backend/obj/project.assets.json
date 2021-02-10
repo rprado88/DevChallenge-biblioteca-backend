@@ -805,11 +805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rodrigoprado/Projects/DevChallenge/Biblioteca-backend/DevChallenge-biblioteca-backend/Biblioteca-backend/Biblioteca-backend/Biblioteca-backend.csproj",
+      "projectUniqueName": "/Users/rodrigoprado/Projects/DevChallenge/DevChallenge-biblioteca-backend/Biblioteca-backend/Biblioteca-backend.csproj",
       "projectName": "Biblioteca-backend",
-      "projectPath": "/Users/rodrigoprado/Projects/DevChallenge/Biblioteca-backend/DevChallenge-biblioteca-backend/Biblioteca-backend/Biblioteca-backend/Biblioteca-backend.csproj",
+      "projectPath": "/Users/rodrigoprado/Projects/DevChallenge/DevChallenge-biblioteca-backend/Biblioteca-backend/Biblioteca-backend.csproj",
       "packagesPath": "/Users/rodrigoprado/.nuget/packages/",
-      "outputPath": "/Users/rodrigoprado/Projects/DevChallenge/Biblioteca-backend/DevChallenge-biblioteca-backend/Biblioteca-backend/Biblioteca-backend/obj/",
+      "outputPath": "/Users/rodrigoprado/Projects/DevChallenge/DevChallenge-biblioteca-backend/Biblioteca-backend/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -827,8 +827,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/rodrigoprado/Projects/DevChallenge/Biblioteca-backend/DevChallenge-biblioteca-backend/Biblioteca-backend/Biblioteca-Core/Biblioteca-Core.csproj": {
-              "projectPath": "/Users/rodrigoprado/Projects/DevChallenge/Biblioteca-backend/DevChallenge-biblioteca-backend/Biblioteca-backend/Biblioteca-Core/Biblioteca-Core.csproj"
+            "/Users/rodrigoprado/Projects/DevChallenge/DevChallenge-biblioteca-backend/Biblioteca-Core/Biblioteca-Core.csproj": {
+              "projectPath": "/Users/rodrigoprado/Projects/DevChallenge/DevChallenge-biblioteca-backend/Biblioteca-Core/Biblioteca-Core.csproj"
             }
           }
         }
