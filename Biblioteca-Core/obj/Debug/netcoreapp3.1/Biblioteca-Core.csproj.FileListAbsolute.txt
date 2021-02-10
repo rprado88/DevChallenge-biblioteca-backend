@@ -1,0 +1,9 @@
+/Users/rodrigoprado/Projects/DevChallenge/Biblioteca-backend/DevChallenge-biblioteca-backend/Biblioteca-backend/Biblioteca-Core/bin/Debug/netcoreapp3.1/Biblioteca-Core.deps.json
+/Users/rodrigoprado/Projects/DevChallenge/Biblioteca-backend/DevChallenge-biblioteca-backend/Biblioteca-backend/Biblioteca-Core/bin/Debug/netcoreapp3.1/Biblioteca-Core.dll
+/Users/rodrigoprado/Projects/DevChallenge/Biblioteca-backend/DevChallenge-biblioteca-backend/Biblioteca-backend/Biblioteca-Core/bin/Debug/netcoreapp3.1/Biblioteca-Core.pdb
+/Users/rodrigoprado/Projects/DevChallenge/Biblioteca-backend/DevChallenge-biblioteca-backend/Biblioteca-backend/Biblioteca-Core/obj/Debug/netcoreapp3.1/Biblioteca-Core.csprojAssemblyReference.cache
+/Users/rodrigoprado/Projects/DevChallenge/Biblioteca-backend/DevChallenge-biblioteca-backend/Biblioteca-backend/Biblioteca-Core/obj/Debug/netcoreapp3.1/Biblioteca-Core.AssemblyInfoInputs.cache
+/Users/rodrigoprado/Projects/DevChallenge/Biblioteca-backend/DevChallenge-biblioteca-backend/Biblioteca-backend/Biblioteca-Core/obj/Debug/netcoreapp3.1/Biblioteca-Core.AssemblyInfo.cs
+/Users/rodrigoprado/Projects/DevChallenge/Biblioteca-backend/DevChallenge-biblioteca-backend/Biblioteca-backend/Biblioteca-Core/obj/Debug/netcoreapp3.1/Biblioteca-Core.csproj.CoreCompileInputs.cache
+/Users/rodrigoprado/Projects/DevChallenge/Biblioteca-backend/DevChallenge-biblioteca-backend/Biblioteca-backend/Biblioteca-Core/obj/Debug/netcoreapp3.1/Biblioteca-Core.dll
+/Users/rodrigoprado/Projects/DevChallenge/Biblioteca-backend/DevChallenge-biblioteca-backend/Biblioteca-backend/Biblioteca-Core/obj/Debug/netcoreapp3.1/Biblioteca-Core.pdb
