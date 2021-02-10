@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{45E9EB23-3426-4326-ADB7-61BA25E0C961}|Default">
+  <MonoDevelop.Ide.ItemProperties.Biblioteca-Tests FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Biblioteca-Tests/Controllers/BibliotecaControllerTests.cs">
+    <Files>
+      <File FileName="Biblioteca-backend/Controllers/BibliotecaController.cs" Line="25" Column="57" IsPinned="True" />
+      <File FileName="Biblioteca-Tests/Controllers/BibliotecaControllerTests.cs" Line="31" Column="25" />
+      <File FileName="Biblioteca-Core/Services/BibliotecaService.cs" Line="31" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Biblioteca-backend" expanded="True">
+            <Node name="Biblioteca-backend" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="Biblioteca-Core" expanded="True">
+              <Node name="Contracts" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="Biblioteca-Tests" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="BibliotecaControllerTests.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Biblioteca-backend PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

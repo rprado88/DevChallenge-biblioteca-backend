@@ -602,11 +602,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rodrigoprado/Projects/DevChallenge/Biblioteca-backend/DevChallenge-biblioteca-backend/Biblioteca-backend/Biblioteca-Core/Biblioteca-Core.csproj",
+      "projectUniqueName": "/Users/rodrigoprado/Projects/DevChallenge/DevChallenge-biblioteca-backend/Biblioteca-Core/Biblioteca-Core.csproj",
       "projectName": "Biblioteca-Core",
-      "projectPath": "/Users/rodrigoprado/Projects/DevChallenge/Biblioteca-backend/DevChallenge-biblioteca-backend/Biblioteca-backend/Biblioteca-Core/Biblioteca-Core.csproj",
+      "projectPath": "/Users/rodrigoprado/Projects/DevChallenge/DevChallenge-biblioteca-backend/Biblioteca-Core/Biblioteca-Core.csproj",
       "packagesPath": "/Users/rodrigoprado/.nuget/packages/",
-      "outputPath": "/Users/rodrigoprado/Projects/DevChallenge/Biblioteca-backend/DevChallenge-biblioteca-backend/Biblioteca-backend/Biblioteca-Core/obj/",
+      "outputPath": "/Users/rodrigoprado/Projects/DevChallenge/DevChallenge-biblioteca-backend/Biblioteca-Core/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
