@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gOg27wfASa7u69RADuBpYfSjDRKKHieelBHqaP69C1v5lntkw3G+dEHQ998yWybG/bZ/goTpaNMe59kDQC5XFw==",
+  "dgSpecHash": "6XIHd8wAayYPPFid2R7+JzUJYFBY4ZSrj9J7IrpLKKwWOo0oQuFQWFGquPd9VAM8+cgj+0XTeewazZ9UWgPJSw==",
   "success": true,
   "projectFilePath": "/Users/rodrigoprado/Projects/DevChallenge/DevChallenge-biblioteca-backend/Biblioteca-Core/Biblioteca-Core.csproj",
   "expectedPackageFiles": [
@@ -19,8 +19,7 @@
     "/Users/rodrigoprado/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
     "/Users/rodrigoprado/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
     "/Users/rodrigoprado/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
-    "/Users/rodrigoprado/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
-    "/Users/rodrigoprado/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "/Users/rodrigoprado/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }

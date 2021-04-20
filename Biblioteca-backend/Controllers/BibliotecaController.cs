@@ -20,40 +20,73 @@ namespace Biblioteca_backend.Controllers
         }
 
         [HttpGet("obras")]
-        public async Task<List<ObraResponse>> GetObras()
+        [ProducesResponseType(typeof(List<ObraResponse>), 200)]
+        [ProducesResponseType(204)]
+        public async Task<ActionResult<List<ObraResponse>>> GetObras()
         {
             var response = await iBibliotecaService.GetObras();
 
-            return response;
+            if (response == null || response.Count <= 0)
+            {
+                return NoContent();
+            }
+
+            return Ok(response);
         }
 
         [HttpGet("obra/{id}")]
-        public async Task<ObraResult> GetObraById(int id)
+        [ProducesResponseType(typeof(ObraResponse), 200)]
+        [ProducesResponseType(404)]
+        public async Task<ActionResult<ObraResult>> GetObraById(int id)
         {
             var response = await iBibliotecaService.GetObraById(id);
 
-            return response;
+            if (!response.IsSuccess)
+            {
+                return NotFound();
+            }
+
+            return Ok(response);
         }
 
         [HttpPost("obra")]
-        public async Task<ObraResult> Create(ObraRequest request)
+        [ProducesResponseType(typeof(ObraResponse), 200)]
+        [ProducesResponseType(400)]
+        public async Task<ActionResult<ObraResult>> Create(ObraRequest request)
         {
             var response = await iBibliotecaService.CreateObra(request);
 
-            return response;
+            if (!response.IsSuccess)
+            {
+                return BadRequest();
+            }
+
+            return Ok(response);
         }
 
         [HttpPut("obra/{id}")]
-        public async Task<ObraResult> Update(int id,ObraRequest request)
+        [ProducesResponseType(typeof(ObraResponse), 200)]
+        [ProducesResponseType(400)]
+        [ProducesResponseType(404)]
+        public async Task<ActionResult<ObraResult>> Update(int id,ObraRequest request)
         {
             if (id != 0)
             {
                 request.Id = id;
             }
+            else
+            {
+                return BadRequest();
+            }
 
             var response = await iBibliotecaService.UpdateObra(request);
 
-            return response;
+            if (!response.IsSuccess)
+            {
+                return NotFound();
+            }
+
+            return Ok(response);
         }
 
         [HttpDelete("obra/{id}")]
