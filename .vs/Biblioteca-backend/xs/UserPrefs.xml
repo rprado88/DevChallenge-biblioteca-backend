@@ -1,37 +1,21 @@
 ﻿<Properties StartupConfiguration="{45E9EB23-3426-4326-ADB7-61BA25E0C961}|Default">
-  <MonoDevelop.Ide.ItemProperties.Biblioteca-Tests FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Biblioteca-Tests/Controllers/BibliotecaControllerTests.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Biblioteca-backend/Controllers/BibliotecaController.cs">
     <Files>
-      <File FileName="Biblioteca-backend/Controllers/BibliotecaController.cs" Line="25" Column="57" IsPinned="True" />
-      <File FileName="Biblioteca-Tests/Controllers/BibliotecaControllerTests.cs" Line="31" Column="25" />
-      <File FileName="Biblioteca-Core/Services/BibliotecaService.cs" Line="31" Column="26" />
+      <File FileName="Biblioteca-backend/Controllers/BibliotecaController.cs" Line="23" Column="9" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Biblioteca-backend" expanded="True">
-            <Node name="Biblioteca-backend" expanded="True">
-              <Node name="Controllers" expanded="True" />
-            </Node>
-            <Node name="Biblioteca-Core" expanded="True">
-              <Node name="Contracts" expanded="True" />
-              <Node name="Services" expanded="True" />
-            </Node>
-            <Node name="Biblioteca-Tests" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="BibliotecaControllerTests.cs" selected="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Biblioteca-Tests/Biblioteca-Tests.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Biblioteca-backend PreferredExecutionTarget="/Applications/Firefox.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/rodrigoprado/Projects/DevChallenge/DevChallenge-biblioteca-backend/Biblioteca-Tests/Controllers/BibliotecaControllerTests.cs" relfile="Biblioteca-Tests/Controllers/BibliotecaControllerTests.cs" line="25" column="1" />
+      <Breakpoint file="/Users/rodrigoprado/Projects/DevChallenge/DevChallenge-biblioteca-backend/Biblioteca-Tests/Core/Services/BibliotecaServiceTests.cs" relfile="Biblioteca-Tests/Core/Services/BibliotecaServiceTests.cs" line="33" column="1" />
+      <Breakpoint file="/Users/rodrigoprado/Projects/DevChallenge/DevChallenge-biblioteca-backend/Biblioteca-Tests/Core/Services/BibliotecaServiceTests.cs" relfile="Biblioteca-Tests/Core/Services/BibliotecaServiceTests.cs" line="19" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
